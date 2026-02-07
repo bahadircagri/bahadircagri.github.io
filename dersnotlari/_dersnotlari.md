@@ -1,2 +1,0 @@
-# Ders notlari #
-Buraya eklenecektir
