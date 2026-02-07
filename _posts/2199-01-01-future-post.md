@@ -1,6 +1,6 @@
 ---
 title: '2026 Haberleri'
-date: 7 Şubat 2026
+date: 07-02-2026
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
