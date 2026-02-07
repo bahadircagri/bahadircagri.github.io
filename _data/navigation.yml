@@ -12,7 +12,7 @@ main:
     url: /publications/
     
     - title: "Ders Notları"
-    url: /dersnotlari/
+    url: https://bahadircagri.github.io/dersnotlari/
 
 #  - title: "Talks"
 #    url: /talks/    
