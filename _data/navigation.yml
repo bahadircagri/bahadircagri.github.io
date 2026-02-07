@@ -11,6 +11,9 @@ main:
   - title: "Eserler"
     url: /publications/
 
+     - title: "Ders Notları"
+    url: /dersnotlari/
+
 #  - title: "Talks"
 #    url: /talks/    
 
@@ -21,8 +24,7 @@ main:
 #    url: /portfolio/
         
   - title: "Blog Postları"
-  url: /dersnotlari/
-   # url: /year-archive/
+   url: /year-archive/
     
   - title: "CV"
     url: /cv/
