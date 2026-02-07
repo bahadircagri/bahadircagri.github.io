@@ -17,9 +17,12 @@ main:
 #  - title: "Teaching"
 #    url: /teaching/    
 
-  - title: "Portfolio"
-    url: /portfolio/
-        
+#  - title: "Portfolio"
+#    url: /portfolio/
+
+  - title: "Ders Notları"
+    url: /dersnotlari/
+    
   - title: "Blog Postları"
     url: /year-archive/
     
