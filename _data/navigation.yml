@@ -27,7 +27,8 @@ main:
     url: /cv/
  
    - title: "Ders Notlari"
-    url: /year-archive/
+    url: /dersnotlari/
+    
   # - title: "CV"
   #   url: /cv-json/
     
