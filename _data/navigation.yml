@@ -10,9 +10,6 @@
 main:
   - title: "Eserler"
     url: /publications/
-    
-  - title: "Ders Notları"
-  url: /dersnotlari/
 
 #  - title: "Talks"
 #    url: /talks/    
