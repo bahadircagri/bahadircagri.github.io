@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /dersnotlari/
 title: "Ders Notları"
 authorprofile: true
