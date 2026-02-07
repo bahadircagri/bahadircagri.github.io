@@ -21,7 +21,7 @@ main:
 #    url: /portfolio/
         
   - title: "Blog Postları"
-  url: _pages/dersnotlari.md
+  url: /dersnotlari/
    # url: /year-archive/
     
   - title: "CV"
