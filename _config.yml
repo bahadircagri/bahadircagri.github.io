@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Assoc. Prof. Bahadir Cagri BAYRAM"
+title                    : "Doç.Dr. Bahadir Cagri BAYRAM"
 title_separator          : "-"
 name                     : &name "Bahadir Cagri BAYRAM"
-description              : &description "Assoc Prof Bahadir Cagri BAYRAM's academic page"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Doç. Dr. Bahadir Cagri BAYRAM'ın kişisel sayfası"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://bahadircagri.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "academicpages/bahadircagri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "cagri-navy-suit.png"
+  avatar           : "cagri_bw_green.jpeg"
   name             : "B. Cagri BAYRAM"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor in Faculty of Forestry, Forest Industry Engineering Department"
-  location         : "Earth"
+  bio              : "Orman Fakültesi, Orman Endüstri Mühendisliği Bölümünde Doç. Dr."
+  location         : "Dünya"
   employer         : "Kastamonu University"
   uri              : # URL
   email            : "bahadircagri@gmail.com" 
